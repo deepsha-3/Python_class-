@@ -14,7 +14,7 @@ student_details = {
 
 # reteriving student grade
 print("This is grade of one student: ", student_details["Dipisha"])
-#..........
+
 
 # add new student 
 student_details["Levent"] = "B" 
