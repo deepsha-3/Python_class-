@@ -4,11 +4,14 @@
 
 # use of "in" operator
 list = [1, 32, 5, 7]
-print(32 in list)
+print("This is used of in operator:",32 in list)
 
-     # slicing is extracting a part of string. 
-    
+     # slicing is extracting a part of string.   
 # use of slice 
 word="Python"
-print(word[0:6])
+print("Slice the word:",word[0:6])
 
+      # indexing is process of extraing a single element from sequence. 
+  # "in" operator can't use indexing but slice we use to excess a single value or element. 
+
+print("Slice the word using index:",word[0])
