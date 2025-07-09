@@ -7,10 +7,11 @@ print("This is original list:",list)
  
   #append()
 list.append(7)
+
 print("The list after using append method:",list)
 
     # insert()
-list.insert(3, 9)
+list.insert(3, 9)  # index, value
 print("The list after use insert method:", list)
 
      # sort()
@@ -32,3 +33,4 @@ print("The minimum value of this list is:", minimum)
     # max 
 maximum = max(list)
 print("This is the maximum value of this list:",maximum)
+

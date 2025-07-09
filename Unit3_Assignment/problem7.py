@@ -3,7 +3,6 @@
  
 text = {
     "word": "Programming"
-
 }
 
 

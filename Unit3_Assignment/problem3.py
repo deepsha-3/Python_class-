@@ -13,12 +13,12 @@ for row in matrix:
 # sum of diagonal elements
      # first diagonal elements is: 1, 7, 13
 first_diagonal = sum(matrix[i][i] for i in range(3))
-print("The sum of first diagnoal elements:", first_diagonal)
+print("The sum of first diagonal elements:", first_diagonal)
 
        # second diagonal elements is: 3,7,7
 second_diagonal = sum(matrix[i][2-i] for i in range(3))
-print("The sum of first diagnoal elements:", second_diagonal)
+print("The sum of second diagonal elements:", second_diagonal)
 
 # Sum of two diagonal elements
 Sum = first_diagonal + second_diagonal
-print("The sum of two diagnoal elements is :", Sum )
+print("The sum of two diagonal elements is :", Sum )
