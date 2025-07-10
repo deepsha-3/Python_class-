@@ -1,6 +1,6 @@
 # Write a Python program to demonstrate the use of the following list methods: append(), insert(), sort(), remove(), reverse(), min(), max().
 
-list = [1, 4, 6, 8, 44, 0, 34, 3, 2 ]
+list = [1, 0, 2, 5, 4, 3, 29 ]
 print("This is original list:",list)
 
 # use the different methods in list 
@@ -11,7 +11,7 @@ list.append(7)
 print("The list after using append method:",list)
 
     # insert()
-list.insert(3, 9)  # index, value
+list.insert(2, 9)  # index, value
 print("The list after use insert method:", list)
 
      # sort()

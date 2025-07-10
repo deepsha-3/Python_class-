@@ -3,8 +3,8 @@
 # 2D matrix 
 matrix=[
     [1, 2, 3],    # this is first row 
-    [4, 7, 6],    # this is second row 
-    [7, 8, 13]     # this is third row 
+    [4, 5, 6],    # this is second row 
+    [7, 8, 9]     # this is third row 
 ]
 
 for row in matrix:
