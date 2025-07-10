@@ -7,10 +7,11 @@ text = "ProgrammingInPython"
 
 print("This is the original text:",text)
    # slice out "Programming" from the word
-print(text[0:11])
+print("Slice the word from text:",text[0:11])
     
     # reverse the whole string 
-print(text[::-1])
+print("Reverse whole string of text:", text[::-1])
 
     # check "Python" is string 
 print("Python is in the string?", "Python" in text)
+

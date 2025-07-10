@@ -12,3 +12,4 @@ for text in letter:
 
 for char, frequency in frequency_letter.items():
     print(f"The '{char}' repeat in '{frequency}' times. ")
+
