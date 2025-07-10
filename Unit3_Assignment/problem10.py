@@ -15,5 +15,6 @@ student_Id = (1, 2, 3, 4)
 student_course = {
    1 : ["Digital Logic", "C++"], 
    2: ["Computer Science", "Research"],
-   3: 
+   3: ["C", "Python"],
+   4: ["Math", "Computer Program"]
 }
