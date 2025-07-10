@@ -15,3 +15,4 @@ print("Reverse whole string of text:", text[::-1])
     # check "Python" is string 
 print("Python is in the string?", "Python" in text)
 
+
