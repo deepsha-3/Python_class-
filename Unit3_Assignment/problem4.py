@@ -14,4 +14,5 @@ print("Slice the word:",word[0:6])
       # indexing is process of extraing a single element from sequence. 
   # "in" operator can't use indexing but slice we use to excess a single value or element. 
 
-print("Slice the word using index:",word[0])
+word = "Programming"
+print("Accessing the value by using index:",word[0])
