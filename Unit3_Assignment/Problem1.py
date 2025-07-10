@@ -4,7 +4,7 @@ list = [1, 0, 2, 5, 4, 3, 29 ]
 print("This is original list:",list)
 
 # use the different methods in list 
- 
+
   #append()
 list.append(7)
 
