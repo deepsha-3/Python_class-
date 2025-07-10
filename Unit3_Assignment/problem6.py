@@ -13,7 +13,7 @@ student_details = {
 }
 
 # reteriving student grade
-print("This is grade of one student: ", student_details["Dipisha"])
+print("The grade of Dipisha: ", student_details["Dipisha"])
 
 
 # add new student 
@@ -22,4 +22,4 @@ print("New student add:", student_details)
 
 # remove student
 del student_details["Dikshya"]
-print("Remove one student from student_details:",student_details)
+print("Remove Dikshya student from student_details:",student_details)
