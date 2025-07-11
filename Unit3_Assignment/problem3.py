@@ -11,11 +11,11 @@ for row in matrix:
     print(row)  # print all matrix 
 
 # sum of diagonal elements
-     # first diagonal elements is: 1, 7, 13
+     # first diagonal elements is: 1, 5, 9
 first_diagonal = sum(matrix[i][i] for i in range(3))
 print("The sum of first diagonal elements:", first_diagonal)
 
-       # second diagonal elements is: 3,7,7
+       # second diagonal elements is: 3, 5, 7
 second_diagonal = sum(matrix[i][2-i] for i in range(3))
 print("The sum of second diagonal elements:", second_diagonal)
 
