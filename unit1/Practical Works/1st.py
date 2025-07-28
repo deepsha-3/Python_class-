@@ -4,12 +4,14 @@
 name ="Dipisha" # name is a variable
 age= "60"      # age is a variable
 print("My name is", name, "and I am", age, "years old.")
+print("")
 
 # Constants
 PI = 3.14   # PI is a constant 
 G=9.8       # G is a constant
 print("The value of PI is", PI)
 print("The value of G is", G)
+print("")
 
 # Data Types
 
@@ -21,6 +23,7 @@ print("The data type of num is", type(num))
 
 fl=9.8
 print("The data type of float is", type(fl))
+print("")
 
 # Type Conversion
 num=10
