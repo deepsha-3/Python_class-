@@ -1,3 +1,5 @@
+# class attribute and object instances in python:
+
 class Car:     # class 
     name =  ""
     color = ""

@@ -1,3 +1,4 @@
+# class attribute and object instances in python: 
 
 class Computer:
     device_name = "" 

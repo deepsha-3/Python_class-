@@ -1,3 +1,5 @@
+# class attribute and object instances in python: 
+
 class Student:  # class
   # attributes
     id = ""      
