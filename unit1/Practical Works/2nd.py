@@ -14,20 +14,22 @@ print("Division:", a / b)          # This is Division Operator
 print("Modulus:", a % b)           # This is Modulus Operator
 print("Exponentiation:", a ** b)   # This is Exponentiation Operator
 print("Floor Division:", a // b)   # This is Floor Division Operator
-
+print("")
 
 # 2. Comparison Operators
-print( a == b)     # Equal to Operator
-print( a != b)     # Not equal to
-print( a > b)      # Greater than
-print( a < b)      # Less than
-print( a >= b)     # Greater than
-print( a <= b)     # Less than or equal to
+print("The a and b are equal:", a == b)     # Equal to Operator
+print("The a and b are not equal:", a != b)     # Not equal to
+print("The a is greater than b:", a > b)      # Greater than
+print("The a is less than b:", a < b)      # Less than
+print("The a is greater than or equal to b:", a >= b)     # Greater than
+print("The a is less than or equal to b:", a <= b)     # Less than or equal to
+print("")
 
 # 3. Logical Operators
 print("Logical AND:", a > 0 and b > 0)   # Logical AND
 print("Logical OR:", a > 0 or b < 0)     # Logical OR
 print("Logical NOT:", not (a > 0))       # Logical NOT
+print("")
 
 
 # 4. Assignment Operators
