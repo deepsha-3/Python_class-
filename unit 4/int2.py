@@ -1,3 +1,4 @@
+# __init__ method in python:
 
 class Computer:
 
