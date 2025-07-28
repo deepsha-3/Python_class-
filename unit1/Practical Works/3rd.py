@@ -2,4 +2,4 @@
 
 name = input("Enter your name:") #input
 city = input("Enter your city:") #input
-print("Hello, It's me", name, "from", city) #output
+print(f"Hello, It's me {name} from {city}.") #output
