@@ -2,12 +2,12 @@
 
 # Variables 
 name ="Dipisha" # name is a variable
-age= "60" # age is a variable
+age= "60"      # age is a variable
 print("My name is", name, "and I am", age, "years old.")
 
 # Constants
-PI = 3.14  # PI is a constant 
-G=9.8     # G is a constant
+PI = 3.14   # PI is a constant 
+G=9.8       # G is a constant
 print("The value of PI is", PI)
 print("The value of G is", G)
 
@@ -24,7 +24,7 @@ print("The data type of float is", type(fl))
 
 # Type Conversion
 num=10
-print(type(num)) # num is an integer
+print(type(num))   # num is an integer
 
 num="10"    # convert num integer to string 
 print(type(num))    # this num is a string
