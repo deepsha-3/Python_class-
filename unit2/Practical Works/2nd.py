@@ -7,6 +7,8 @@ for i in range (0, 21):
         print(i)
 print("")
 
+
+
 # 2. While loop to calculate the sum of numbers from 1 to 100
 print("While loop to calculate the sum of numbers from 1 to 100:")
 
