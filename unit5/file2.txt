@@ -1,0 +1,3 @@
+Hello coders, Welcome to the world of code. Here you can learn Python with me.
+You can also explore my git and visit my github profile. 
+Now I can't explain anything more explore by yourself.
