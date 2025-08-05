@@ -1,4 +1,4 @@
-# multiplucation table in python 
+# multiplication table in python:
 num = int(input("Enter  a number:"))
 
 for a in range(1,11):
