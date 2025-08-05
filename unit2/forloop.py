@@ -6,7 +6,7 @@
 #     print(num)
 
 
-# continue 
+# continue statement in for loop example in python:
 for num in range(0, 20):
     if (num==6):
         continue
