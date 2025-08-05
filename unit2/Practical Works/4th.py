@@ -1,5 +1,8 @@
 # Write program to create a different patterns using nested loop.
-for i in range(1, 6): 
-    for a in range(1, i+1):
-        print("*" * a, end="")
-        print("")
+
+# 1. This is a simple pattern print(Square pattern):
+row= 6
+for i in range(row): 
+    for a in range(row):
+        print("*", end="")
+    print("")
