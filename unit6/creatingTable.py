@@ -1,4 +1,4 @@
-
+# creating table in python: 
 
 import sqlite3
 
