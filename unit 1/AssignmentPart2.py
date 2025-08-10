@@ -1,4 +1,4 @@
-# USD to INR 
+# convert USD to INR by using API 
 
 import requests
 name = input("Enter your name: ")
