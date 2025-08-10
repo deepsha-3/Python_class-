@@ -1,4 +1,5 @@
 # Inheritance in Python:
+
 class Person:
     def talk(self):
         print("I can talk!")
