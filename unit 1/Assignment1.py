@@ -1,4 +1,4 @@
-
+# calculate data using API
 import requests
 
 countryname = input("Enter your country: ")
