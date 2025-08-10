@@ -1,6 +1,6 @@
 # heritance example
 
-class Animal:
+class Animal:   # class
     def sound(self):
         print("Animal makes sound.")
 
