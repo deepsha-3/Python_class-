@@ -1,4 +1,4 @@
-# USD to NPR
+#convert USD to NPR by using API 
 import requests
 name = input("Enter your name: ")
 
