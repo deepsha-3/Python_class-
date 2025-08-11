@@ -1,5 +1,5 @@
 
-# What is a dictionary in Python? Write a program to count the frequency of each letter in a given string using a dictionary.
+# 7. What is a dictionary in Python? Write a program to count the frequency of each letter in a given string using a dictionary.
 
 letter = "Rewrite".lower()  # .lower() for converting letter uppercase and lowercase
 frequency_letter = {}  #empty dictionary
