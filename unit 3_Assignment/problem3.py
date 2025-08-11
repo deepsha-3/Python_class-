@@ -1,4 +1,4 @@
-# Create a 2D list (matrix) of 3 rows and 3 columns. Write a program to display the matrix and calculate the sum of all diagonal elements. 
+# 3. Create a 2D list (matrix) of 3 rows and 3 columns. Write a program to display the matrix and calculate the sum of all diagonal elements. 
 
 # 2D matrix 
 matrix=[
