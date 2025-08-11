@@ -1,4 +1,4 @@
-# 1.Write a Python class called Laptop that has two attributes: brand and color. Create two objects with different values and print their details. 
+# 1. Write a Python class called Laptop that has two attributes: brand and color. Create two objects with different values and print their details. 
 
 class Laptop: 
     brand = ""   # class attribute
