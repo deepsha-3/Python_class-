@@ -1,7 +1,7 @@
-# Write a Python program to:
-   # • Create two sets
-   # • Perform union, intersection, and difference
-   # • Add and remove elements from a set 
+# 8. Write a Python program to:
+"""    • Create two sets
+       • Perform union, intersection, and difference
+       • Add and remove elements from a set  """
 
 # Create two sets
 A = {1, 2, 3, 4, 5, 6, 7}
