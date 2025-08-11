@@ -1,4 +1,4 @@
-# Write a Python program to demonstrate the use of the following list methods: append(), insert(), sort(), remove(), reverse(), min(), max().
+# 1. Write a Python program to demonstrate the use of the following list methods: append(), insert(), sort(), remove(), reverse(), min(), max().
 
 list = [1, 0, 2, 5, 4, 3, 29 ]
 print("This is original list:",list)
