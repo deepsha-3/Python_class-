@@ -1,4 +1,4 @@
-# Create a list of squares of all even numbers between 1 and 20 using list comprehension.
+# 2. Create a list of squares of all even numbers between 1 and 20 using list comprehension.
 
 squares = []  
 for a in range(1, 21):    # for loop 
