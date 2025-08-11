@@ -1,4 +1,4 @@
-# Write a Python program to:
+# 6. Write a Python program to:
     # • Create a dictionary with student names and their grades
     # • Retrieve a grade
     # • Add a new student
