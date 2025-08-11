@@ -1,4 +1,4 @@
-# Explain the use of in operator and slicing with examples. How is it different from indexing? 
+# 4. Explain the use of in operator and slicing with examples. How is it different from indexing? 
 
    # we can use "in" operator check the condition and value is exits or not in the same condition.
 
