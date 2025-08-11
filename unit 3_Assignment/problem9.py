@@ -1,7 +1,7 @@
 # Given a string "ProgrammingInPython", write Python statements to:
-      # • Slice out “Programming”
-      # • Reverse the whole string
-      # • Check if "Python" is in the string 
+"""    • Slice out “Programming”
+       • Reverse the whole string
+       • Check if "Python" is in the string """
 
 text = "ProgrammingInPython"
 
