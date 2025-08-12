@@ -1,6 +1,6 @@
 # 2. Explain the purpose of the __init__() method in Python. Give an example using a Book class.
 
-class Book:
+class Book:   # class 
     def __init__(self, title, author):
         self.title = title
         self.author = author
