@@ -81,7 +81,7 @@ project = ProjectManager()
 project.info()
 project.role()
 
-print()
+
 
 dev = Developer()
 dev.info()
