@@ -1,7 +1,7 @@
 # 6.Write a Python program using multiple inheritance where:
 """   •Chef class can cook
       •Driver class can drive
-      •Employee class inherits both and can also attend meetings    """
+      •Employee class inherits both and can also attend meetings   """
 
 class Chef:
     def cook(self):
