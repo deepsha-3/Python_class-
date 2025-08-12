@@ -1,7 +1,7 @@
 # 1. Write a Python class called Laptop that has two attributes: brand and color. Create two objects with different values and print their details. 
 
 class Laptop: 
-    brand = ""   # class attribute
+    brand = ""      # class attribute
     color = ""
 
 laptop1 = Laptop()  # object 1 
