@@ -1,4 +1,4 @@
-# 6.Write a Python program using multiple inheritance where:
+# 6. Write a Python program using multiple inheritance where:
 """   •Chef class can cook
       •Driver class can drive
       •Employee class inherits both and can also attend meetings   """
