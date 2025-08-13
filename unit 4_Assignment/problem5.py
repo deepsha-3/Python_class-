@@ -24,7 +24,7 @@ print()
 print("   Multiple Inheritance:")  # one child two parents
 class SoftwareDeveloper:
     def task(self):
-        print("They handle all tasks in development.")
+        print("They handle all tasks in development field.")
 
 class ProjectLead:
     def manage(self):
@@ -32,7 +32,7 @@ class ProjectLead:
 
 class TechLead(SoftwareDeveloper, ProjectLead):
     def execute(self):
-        print("They handle or execut project.")
+        print("They handle or execute project.")
 
 company = TechLead()
 company.task()
@@ -48,8 +48,8 @@ class Company:
         print("Name of Company: ABC Tech Company.")
 
 class Department(Company):
-    def deprt_info(self):
-        print("This is one department of ABC Tech Compny: Software Develpment")
+    def department_info(self):
+        print("This is one department of ABC Tech Compny: Software Development.")
 
 class Team(Department):
     def team_info(self):
@@ -57,7 +57,7 @@ class Team(Department):
 
 comp = Team()
 comp.company_info()
-comp.deprt_info()
+comp.department_info()
 comp.team_info()
 
 print()
