@@ -1,1 +1,1 @@
-# 8.What is data hiding in Python? Explain with an example where a class BankAccount hides the balance and provides methods to access or modify it. 
+# 8. What is data hiding in Python? Explain with an example where a class BankAccount hides the balance and provides methods to access or modify it. 
