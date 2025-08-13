@@ -1,1 +1,1 @@
-# 9.Create a class PinLocker with a private variable __pin. Add methods to view and change the pin. Try to access the pin directly and show the error. 
+# 9. Create a class PinLocker with a private variable __pin. Add methods to view and change the pin. Try to access the pin directly and show the error. 
