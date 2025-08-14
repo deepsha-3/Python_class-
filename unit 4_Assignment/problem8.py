@@ -14,13 +14,13 @@ class BankAccount:
         if amount <= self.__balance:
             self.__balance -= amount
         else:
-            print("Not enough balance.")
+            print("There is not enough balance.")
 account = BankAccount(1000)
-print("Balance:", account.get_balance())
+print("Total balance is:", account.get_balance())
 
 account.deposit(500)
-print("Balance after deposit:", account.get_balance())
+print("The balance after deposit is:", account.get_balance())
 
 account.withdraw(300)
-print("Balance after withdrawal:", account.get_balance())
+print("The balance after withdraw is:", account.get_balance())
 
