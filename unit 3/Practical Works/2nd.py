@@ -1,0 +1,1 @@
+# Write a program to make use of list slicing concept to display elements of list. 
