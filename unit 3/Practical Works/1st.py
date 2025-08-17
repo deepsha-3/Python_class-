@@ -7,4 +7,4 @@ list.append(0)  # add elements
 
 list.remove(4)  # remove elements
 
-list 
+print(list) 
