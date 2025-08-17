@@ -2,3 +2,9 @@
 
 # create listr
 list =[1,4,5,6,7, 8]
+
+list.append(0)  # add elements
+
+list.remove(4)  # remove elements
+
+list 
