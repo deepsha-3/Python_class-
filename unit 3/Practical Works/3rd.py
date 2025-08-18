@@ -21,3 +21,7 @@ print("After removing data from list:", list)
 # pop method
 list.pop()
 print("After popping data from list:", list)
+
+# clear method
+list.clear()
+print("After clearing data from list:", list)
