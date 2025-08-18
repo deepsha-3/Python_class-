@@ -9,3 +9,7 @@ print("The first list is:", list)
 
 list.append("Deepa")
 print("After adding some data in list:", list)
+
+# insert method
+list.insert(3, "true")
+print("After inserting data in list:", list)
