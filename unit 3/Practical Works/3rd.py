@@ -13,3 +13,7 @@ print("After adding some data in list:", list)
 # insert method
 list.insert(3, "true")
 print("After inserting data in list:", list)
+
+# remove method
+list.remove("Deepa")
+print("After removing data from list:", list)
