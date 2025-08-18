@@ -25,3 +25,7 @@ print("After popping data from list:", list)
 # clear method
 list.clear()
 print("After clearing data from list:", list)
+
+# extend method
+list.extend(["Deepa", "true"])
+print("After extending data in list:", list)
