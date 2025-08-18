@@ -3,5 +3,9 @@
 # create a list 
 
 list = [ 0, 4, 7, "test", 6, "python"]
+print("The first list is:", list)
 
 # append method 
+
+list.append("Deepa")
+print("After adding some data in list:", list)
