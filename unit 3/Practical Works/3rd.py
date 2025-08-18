@@ -17,3 +17,7 @@ print("After inserting data in list:", list)
 # remove method
 list.remove("Deepa")
 print("After removing data from list:", list)
+
+# pop method
+list.pop()
+print("After popping data from list:", list)
