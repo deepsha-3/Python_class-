@@ -1,1 +1,2 @@
-# Write a program 
+# Write a program to apply list comprehension. 
+
