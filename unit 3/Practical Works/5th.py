@@ -7,3 +7,5 @@ matrix = [
 ]
 
 # print the matrix
+for row in matrix:
+    print(row)
