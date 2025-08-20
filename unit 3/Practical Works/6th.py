@@ -9,3 +9,5 @@ print ("The original tuple is:", tuples)
 tuples =tuples + (7,6)
 
 print ("The tuple after adding elements is:", tuples)
+
+# remove elements from tuple
