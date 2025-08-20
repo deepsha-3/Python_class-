@@ -12,3 +12,5 @@ print ("The tuple after adding elements is:", tuples)
 
 # remove elements from tuple
 tuples = tuples[:-1]
+
+print ("The tuple after removing elements is:", tuples)
