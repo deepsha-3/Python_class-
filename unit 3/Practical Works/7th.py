@@ -6,3 +6,5 @@ dictionary = {
     'age': 12,
     'city': 'Munich'
 }
+
+print("The original dictionary: " , dictionary)
