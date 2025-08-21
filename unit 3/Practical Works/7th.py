@@ -8,3 +8,5 @@ dictionary = {
 }
 
 print("The original dictionary: " , dictionary)
+
+# adding elements
