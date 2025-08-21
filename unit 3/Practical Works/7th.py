@@ -10,4 +10,4 @@ dictionary = {
 print("The original dictionary: " , dictionary)
 
 # adding elements
-dictionary['school'] = 'ABC High School'
+dictionary['school'] = 'Greenwood High'
