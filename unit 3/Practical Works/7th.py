@@ -20,3 +20,6 @@ print("After removing elements: " , dictionary)
 
 remove_data = dictionary.pop('hobby') # removing hobby by using "pop" keyword
 print("After removing 'hobby': " , dictionary)
+
+# display items
+
