@@ -12,3 +12,4 @@ print("The original dictionary: " , dictionary)
 # adding elements
 dictionary['country'] = 'Germany'
 dictionary['hobby'] = 'Coding'
+print("After adding elements: " , dictionary)
