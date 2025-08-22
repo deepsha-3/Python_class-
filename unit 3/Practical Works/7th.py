@@ -17,3 +17,6 @@ print("After adding elements: " , dictionary)
 # removing elements
 del dictionary['age']      # removing age by using "del" keyword
 print("After removing elements: " , dictionary)
+
+remove_data = dictionary.pop('hobby')
+print("After removing 'hobby': " , dictionary)
