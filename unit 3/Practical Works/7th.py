@@ -13,3 +13,5 @@ print("The original dictionary: " , dictionary)
 dictionary['country'] = 'Germany'
 dictionary['hobby'] = 'Coding'
 print("After adding elements: " , dictionary)
+
+# removing elements
