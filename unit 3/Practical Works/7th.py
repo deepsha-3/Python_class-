@@ -11,4 +11,4 @@ print("The original dictionary: " , dictionary)
 
 # adding elements
 dictionary['country'] = 'Germany'
-
+dictionary['hobby'] = 'Coding'
