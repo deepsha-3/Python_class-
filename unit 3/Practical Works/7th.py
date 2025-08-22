@@ -15,3 +15,5 @@ dictionary['hobby'] = 'Coding'
 print("After adding elements: " , dictionary)
 
 # removing elements
+del dictionary['age']     
+print("After removing elements: " , dictionary)
