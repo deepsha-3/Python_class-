@@ -22,4 +22,7 @@ remove_data = dictionary.pop('hobby') # removing hobby by using "pop" keyword
 print("After removing 'hobby': " , dictionary)
 
 # display items
+for key, value in dictionary.items():
+    print(key, ":", value)
 
+    # print(f"{key} : {value}")
