@@ -10,3 +10,4 @@ sets.add(2)
 sets.add(4)
 print("The items in a set are:",sets)
 
+# remove elements from set
