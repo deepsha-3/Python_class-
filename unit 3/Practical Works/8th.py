@@ -7,7 +7,7 @@ sets = set()  # this is empty sets
 sets.add(0)
 sets.add(1)
 sets.add(2)
-
+sets.add(3)
 sets.add(4)
 print("The items in a set are:",sets)
 
