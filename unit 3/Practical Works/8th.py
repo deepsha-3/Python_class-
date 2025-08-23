@@ -7,9 +7,10 @@ sets = set()  # this is empty sets
 sets.add(0)
 sets.add(1)
 sets.add(2)
+
 sets.add(4)
 print("The items in a set are:",sets)
 
 # remove elements from set
 sets.remove(1)
-print("The value after the one elements from set:" ,sets)
+print("The value after the one elements from set:",sets)
