@@ -18,3 +18,7 @@ print("The first difference of this set:", D1)
 
 D2 = set2 - set1
 print("The second difference of this set:", D2)
+
+# symmetric difference
+S = set1 ^ set2
+print("Symmetric difference of this set:", S)
