@@ -14,6 +14,7 @@ print("Intersection of this set:", I)
 
 # difference 
 D1 = set1 - set2
-print("Difference of this set:", D1)
+print("The first difference of this set:", D1)
 
-
+D2 = set2 - set1
+print("The second difference of this set:", D2)
