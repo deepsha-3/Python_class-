@@ -7,3 +7,7 @@ set2 = {4, 5, 6, 7, 8}
 # union 
 U = set1 | set2
 print("Union of this set:", U)
+
+# intersection 
+I =  set1 & set2 
+print("Intersection of this set:", I)
