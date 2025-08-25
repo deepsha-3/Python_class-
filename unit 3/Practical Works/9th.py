@@ -9,7 +9,7 @@ u = set1 | set2
 print("Union of this set:", u)
 
 # intersection 
-I =  set1 & set2 
+i =  set1 & set2 
 print("Intersection of this set:", I)
 
 # difference 
