@@ -13,8 +13,8 @@ I =  set1 & set2
 print("Intersection of this set:", I)
 
 # difference 
-d1 = set1 - set2
-print("The first difference of this set:", d1)
+D1 = set1 - set2
+print("The first difference of this set:", D1)
 
 d2 = set2 - set1
 print("The second difference of this set:", d2)
