@@ -9,8 +9,8 @@ U = set1 | set2
 print("Union of this set:", U)
 
 # intersection 
-i =  set1 & set2 
-print("Intersection of this set:", i)
+I =  set1 & set2 
+print("Intersection of this set:", I)
 
 # difference 
 d1 = set1 - set2
