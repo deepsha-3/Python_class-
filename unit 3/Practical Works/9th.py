@@ -10,7 +10,7 @@ print("Union of this set:", u)
 
 # intersection 
 i =  set1 & set2 
-print("Intersection of this set:", I)
+print("Intersection of this set:", i)
 
 # difference 
 D1 = set1 - set2
