@@ -5,8 +5,8 @@ set1 = {1, 2, 3, 4, 5, 6}
 set2 = {4, 5, 6, 7, 8}
 
 # union 
-u = set1 | set2
-print("Union of this set:", u)
+U = set1 | set2
+print("Union of this set:", U)
 
 # intersection 
 i =  set1 & set2 
