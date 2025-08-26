@@ -20,5 +20,5 @@ D2 = set2 - set1
 print("The second difference of this set:", D2)
 
 # symmetric difference
-s = set1 ^ set2
+S = set1 ^ set2
 print("Symmetric difference of this set:", s)
