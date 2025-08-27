@@ -22,3 +22,7 @@ print("This is the text in title case:", title_text)
 # convert swap case
 swap_text = text.swapcase()
 print("This is the text in swap case:", swap_text)
+
+# replace
+replaced_text = text.replace("coders", "programmers")
+print("This is the text after replacement:", replaced_text)
