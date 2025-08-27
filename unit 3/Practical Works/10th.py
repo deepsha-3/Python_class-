@@ -1,4 +1,7 @@
 # Write a program to make use of string manipulation methods and also perform string operations.
 
-# sting 
+# string
 text = "Hello, coders!"
+
+print("This is the original text:", text)
+
