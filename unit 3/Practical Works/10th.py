@@ -18,3 +18,7 @@ print("This is the text in lowercase:", lower_text)
 # convert title case
 title_text = text.title()
 print("This is the text in title case:", title_text)
+
+# convert swap case
+swap_text = text.swapcase()
+print("This is the text in swap case:", swap_text)
