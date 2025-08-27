@@ -5,3 +5,4 @@ text = "Hello, coders!"
 
 print("This is the original text:", text)
 
+# string manipulations
