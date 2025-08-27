@@ -26,3 +26,7 @@ print("This is the text in swap case:", swap_text)
 # replace
 replaced_text = text.replace("coders", "programmers")
 print("This is the text after replacement:", replaced_text)
+
+# split
+split_text = text.split(", ")
+print("This is the text after splitting:", split_text)
