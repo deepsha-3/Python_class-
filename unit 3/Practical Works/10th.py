@@ -7,3 +7,6 @@ print("This is the original text:", text)
 
 # string manipulations
 
+# convert uppercase
+upper_text = text.upper()
+print("This is the text in uppercase:", upper_text)
