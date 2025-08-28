@@ -6,3 +6,6 @@ class Car:
         self.model = model
         self.color = color
         self.year = year
+
+# create object
+my_car = Car("BMW", "Brown", 2020)
