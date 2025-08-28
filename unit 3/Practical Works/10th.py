@@ -32,3 +32,5 @@ split_text = text.split(", ")
 print("This is the text after splitting:", split_text)
 
 # string slicing 
+sliced_text = text[0:5]
+print("This is the sliced text:", sliced_text)
