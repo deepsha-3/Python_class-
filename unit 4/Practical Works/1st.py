@@ -16,4 +16,4 @@ class Car:
 my_car = Car("BMW", "Brown", 2020)
 
 # call method
-
+my_car.car_info()
