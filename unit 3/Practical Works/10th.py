@@ -30,3 +30,5 @@ print("This is the text after replacement:", replaced_text)
 # split
 split_text = text.split(", ")
 print("This is the text after splitting:", split_text)
+
+# string slicing 
