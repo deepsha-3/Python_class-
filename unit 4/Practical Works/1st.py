@@ -1,1 +1,1 @@
-# Write program to elaborate 
+# Write program to elaborate object oritented concept with simple examples. 
