@@ -17,3 +17,5 @@ class Car:
 my_car = Car("Audi", "Red", 2021)
 
 # call method
+my_car.display_info()
+
