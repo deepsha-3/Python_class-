@@ -14,3 +14,4 @@ class Car:
 
 
 # create object
+my_car = Car("Audi", "Red", 2021)
