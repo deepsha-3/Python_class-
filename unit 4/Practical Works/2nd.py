@@ -6,3 +6,8 @@ class Car:
         self.model = model
         self.color = color
         self.year = year
+
+    def display_info(self):
+        print(f"Car Model: {self.model}")
+        print(f"Car Color: {self.color}")
+        print(f"Car Year: {self.year}")
