@@ -4,11 +4,11 @@
 
 class Car:
     def drive(self):
-        print("Car is driving")
+        print("Car is driving.")
 
 class SportsCar(Car):
     def race(self):
-        print("Sports car is racing")
+        print("Sports car is racing.")
 
 car = SportsCar()
 car.drive()
