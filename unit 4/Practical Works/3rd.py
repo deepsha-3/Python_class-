@@ -26,3 +26,5 @@ class Dog:
 class Animal(Cat, Dog):
     def speak(self):
         print("Animal speaks.")
+
+a = Animal()
