@@ -19,3 +19,6 @@ class Cat:
     def speak(self):
         print("Cat speak")
 
+class Dog:
+    def bark(self):
+        print("Dog bark")
