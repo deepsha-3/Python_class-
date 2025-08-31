@@ -13,3 +13,9 @@ class SportsCar(Car):
 car = SportsCar()
 car.drive()
 car.race()
+
+# Multiple inheritance 
+class Animal:
+    def speak(self):
+        print("Animal speak")
+
