@@ -28,3 +28,4 @@ class Animal(Cat, Dog):
         print("Animal speaks.")
 
 a = Animal()
+a.meow()
