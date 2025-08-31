@@ -32,4 +32,4 @@ a.meow()
 a.bark()
 a.speak()
 
-# multilevel 
+# multilevel inheritance
