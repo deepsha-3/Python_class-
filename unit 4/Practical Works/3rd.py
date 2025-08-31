@@ -15,7 +15,7 @@ car.drive()
 car.race()
 
 # Multiple inheritance 
-class Animal:
+class Cat:
     def speak(self):
-        print("Animal speak")
+        print("Cat speak")
 
