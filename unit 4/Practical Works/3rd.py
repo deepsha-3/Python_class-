@@ -29,3 +29,4 @@ class Animal(Cat, Dog):
 
 a = Animal()
 a.meow()
+a.bark()
