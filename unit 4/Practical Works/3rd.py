@@ -22,3 +22,7 @@ class Cat:
 class Dog:
     def bark(self):
         print("Dog barks.")
+
+class Animal(Cat, Dog):
+    def speak(self):
+        print("Animal speaks.")
