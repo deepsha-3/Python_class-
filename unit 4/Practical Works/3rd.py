@@ -42,3 +42,5 @@ class Parents(Grandprents):
         print("I am a parent.")
 
 class Child(Parents):
+    def message(self):
+        print("I am a child.")
