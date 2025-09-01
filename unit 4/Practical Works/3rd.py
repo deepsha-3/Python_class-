@@ -46,3 +46,4 @@ class Child(Parents):
         print("I am a child.")
 
 c = Child()
+c.info()
