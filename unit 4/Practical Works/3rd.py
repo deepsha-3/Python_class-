@@ -40,3 +40,5 @@ class Grandprents:
 class Parents(Grandprents):
     def details(self):
         print("I am a parent.")
+
+class Child(Parents):
