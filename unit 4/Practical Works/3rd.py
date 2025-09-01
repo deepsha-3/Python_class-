@@ -36,4 +36,7 @@ a.speak()
 class Grandprents:
     def info(self):
         print("I am a grandparent.")
-        
+
+class Parents(Grandprents):
+    def details(self):
+        print("I am a parent.")
