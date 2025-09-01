@@ -48,3 +48,4 @@ class Child(Parents):
 c = Child()
 c.info()
 c.details()
+c.message()
