@@ -50,4 +50,4 @@ c.info()
 c.details()
 c.message()
 
-# hierarchical Inheritance
+# Hierarchical Inheritance
