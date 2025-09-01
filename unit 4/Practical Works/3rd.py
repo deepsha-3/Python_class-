@@ -32,7 +32,7 @@ a.meow()
 a.bark()
 a.speak()
 
-# Multilevel inheritance
+# Multilevel Inheritance
 class Grandprents:
     def info(self):
         print("I am a grandparent.")
