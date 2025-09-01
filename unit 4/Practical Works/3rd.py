@@ -33,3 +33,7 @@ a.bark()
 a.speak()
 
 # Multilevel inheritance
+class Grandprents:
+    def info(self):
+        print("I am a grandparent.")
+        
