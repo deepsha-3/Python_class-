@@ -14,7 +14,7 @@ car = SportsCar()
 car.drive()
 car.race()
 
-# Multiple inheritance 
+# Multiple Inheritance
 class Cat:
     def meow(self):
         print("Cat meows.")
