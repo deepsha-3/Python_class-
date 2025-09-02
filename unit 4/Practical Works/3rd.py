@@ -66,4 +66,4 @@ class Son(Parent):
     def details(self):
         print("I am a second child class.")
 
-        
+d = Daughter()
