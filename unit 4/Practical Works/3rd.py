@@ -72,3 +72,4 @@ d.details()
 
 s = Son()
 s.info()
+s.details()
