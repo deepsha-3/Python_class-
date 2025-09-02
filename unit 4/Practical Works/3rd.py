@@ -67,3 +67,5 @@ class Son(Parent):
         print("I am a second child class.")
 
 d = Daughter()
+d.info()
+d.details()
