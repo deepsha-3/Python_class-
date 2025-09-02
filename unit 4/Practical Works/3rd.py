@@ -57,4 +57,7 @@ c.message()
 class Parent:
     def info(self):
         print("Give me some parent information.")
-    
+
+class Daughter(Parent):
+    def details(self):
+        
