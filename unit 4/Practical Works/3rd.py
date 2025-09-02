@@ -69,3 +69,5 @@ class Son(Parent):
 d = Daughter()
 d.info()
 d.details()
+
+s = Son()
