@@ -60,4 +60,4 @@ class Parent:
 
 class Daughter(Parent):
     def details(self):
-        
+        print("I am a first child class.")
