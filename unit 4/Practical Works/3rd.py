@@ -61,3 +61,9 @@ class Parent:
 class Daughter(Parent):
     def details(self):
         print("I am a first child class.")
+
+class Son(Parent):
+    def details(self):
+        print("I am a second child class.")
+
+        
