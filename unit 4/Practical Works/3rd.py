@@ -54,5 +54,7 @@ c.message()
 
 # Hierarchical Inheritance
 
-
-
+class Parent:
+    def info(self):
+        print("Give me some parent information.")
+    
