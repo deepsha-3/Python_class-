@@ -16,3 +16,6 @@ class Cat(Animal):
 
 def animal_sound(animal):
     animal.speak()
+
+animal_sound(Dog())
+animal_sound(Cat())
