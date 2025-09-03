@@ -2,7 +2,6 @@
 
 # Polymorphism
       # create a class 
-class Employee:
-    def __init__(self, name, salary):
-        self.name= name
-        self.salary= salary
+class Animal: 
+    def speak(self): 
+        print("Animal speaks")
