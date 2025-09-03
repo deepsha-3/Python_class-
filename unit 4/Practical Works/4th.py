@@ -13,3 +13,6 @@ class Dog(Animal):
 class Cat(Animal):
     def speak(self):
         print("The cat meows")
+
+def animal_sound(animal):
+    animal.speak()
