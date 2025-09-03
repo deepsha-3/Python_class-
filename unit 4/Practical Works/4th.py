@@ -19,3 +19,5 @@ def animal_sound(animal):
 
 animal_sound(Dog())
 animal_sound(Cat())
+
+# hiding data 
