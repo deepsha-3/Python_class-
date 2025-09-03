@@ -1,1 +1,1 @@
-# Write a Program to elaborate polymorphism 
+# Write a Program to elaborate polymorphism and data hiding concept. 
