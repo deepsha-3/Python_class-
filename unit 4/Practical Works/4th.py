@@ -31,3 +31,4 @@ class Person:
 
 person = Person("Sachin", 60)
 person.display_info()
+# person.__age  # This will raise an AttributeError
