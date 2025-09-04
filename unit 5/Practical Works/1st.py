@@ -24,3 +24,5 @@ def main():
    print("Subtraction value is:", subtract(a,b))
 
    print("Multiplication value is:", multiply(a,b))
+
+   print("Division value is:", divide(a,b))
