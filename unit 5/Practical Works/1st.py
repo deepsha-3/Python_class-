@@ -18,3 +18,5 @@ def divide(a,b):
 def main():
    a = 20
    b= 10
+
+   print("Addition value is:", add(a,b))
