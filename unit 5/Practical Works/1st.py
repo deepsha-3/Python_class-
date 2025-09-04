@@ -20,3 +20,5 @@ def main():
    b= 10
 
    print("Addition value is:", add(a,b))
+
+   print("Subtraction value is:", subtract(a,b))
