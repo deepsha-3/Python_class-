@@ -21,3 +21,10 @@ animal_sound(Dog())
 animal_sound(Cat())
 
 # hiding data 
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.__age = age  # private attribute
+
+    def display_info(self):
+        print(f"Name: {self.name}, Age: {self.__age}")
