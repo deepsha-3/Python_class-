@@ -28,3 +28,5 @@ class Person:
 
     def display_info(self):
         print(f"Name: {self.name}, Age: {self.__age}")
+
+person = Person("Sachin", 60)
