@@ -30,3 +30,4 @@ class Person:
         print(f"Name: {self.name}, Age: {self.__age}")
 
 person = Person("Sachin", 60)
+person.display_info()
