@@ -19,6 +19,7 @@ def main():
    a = 20
    b= 10
 
+  # calling functions 
    print("Addition value is:", add(a,b))
 
    print("Subtraction value is:", subtract(a,b))
