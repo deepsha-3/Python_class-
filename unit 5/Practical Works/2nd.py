@@ -1,1 +1,1 @@
-# Write a Python program 
+# Write different variety of functions: 
