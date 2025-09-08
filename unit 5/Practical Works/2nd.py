@@ -10,4 +10,4 @@ greet("Kartik")
 # function without argument
 
 def Exam():
- 
+    print("Hello, Deepsha")
