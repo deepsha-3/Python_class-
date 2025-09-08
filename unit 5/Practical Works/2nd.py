@@ -8,3 +8,5 @@ def greet(name):
 greet("Kartik") 
 
 # value returning function
+
+def add(a,b):
