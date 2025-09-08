@@ -19,3 +19,5 @@ print("Sum is:",result)
 
 def greet():
     print("Hello, World!")
+
+greet()
