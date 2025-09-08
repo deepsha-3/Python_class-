@@ -7,7 +7,4 @@ def greet(name):
 
 greet("Kartik") 
 
-# function without argument
-
-def Exam():
-    print("Hello, Deepsha")
+# value returning function
