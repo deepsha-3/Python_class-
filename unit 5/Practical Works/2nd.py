@@ -17,7 +17,7 @@ print("Sum is:",result)
 
 # function without argument
 
-def greet():
+def greet1():
     print("Hello, World!")
 
-greet()
+greet1()  
