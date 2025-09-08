@@ -9,3 +9,5 @@ greet("Kartik")
 
 # function without argument
 
+def Exam():
+ 
