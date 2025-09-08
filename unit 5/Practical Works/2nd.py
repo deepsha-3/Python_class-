@@ -17,3 +17,4 @@ print("Sum is:",result)
 
 # function without argument
 
+def greet():
