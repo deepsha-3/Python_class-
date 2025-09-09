@@ -1,1 +1,1 @@
-# Write different varity of functions 
+# Write program to store output in file. 
