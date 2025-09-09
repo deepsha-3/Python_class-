@@ -1,0 +1,1 @@
+# Write different varity of functions 
