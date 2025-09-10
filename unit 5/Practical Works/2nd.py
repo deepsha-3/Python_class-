@@ -11,7 +11,7 @@ greet("Deepsha")
 
 def add(a,b):
     return a+b
-result = add(3,5)
+result = add(5,5)
 print("Sum is:",result)
 
 
