@@ -1,1 +1,1 @@
-# Write a program to handle different types of exception
+# Write a program to handle different types of exception.
