@@ -18,6 +18,6 @@ print("Sum is:",result)
 # function without argument
 
 def greet1():
-    print("Hello, World!")
+    print("Hello, Coders!")
 
 greet1()  
