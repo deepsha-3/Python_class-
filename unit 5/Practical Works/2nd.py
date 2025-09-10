@@ -3,7 +3,7 @@
 # function with argument
 
 def greet(name):
-    print("Hello,",name)
+    print("Hello,"+name)
 
 greet("Kartik") 
 
