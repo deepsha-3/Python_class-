@@ -16,7 +16,7 @@ def divide(a,b):
         return "Cannot divide by zero"
     
 def main():
-   a = 20
+   a = 50
    b= 10
 
   # calling functions 
