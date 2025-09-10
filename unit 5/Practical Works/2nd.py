@@ -5,7 +5,7 @@
 def greet(name):
     print("Hello,",name)
 
-greet("Deepsha") 
+greet("Kartik") 
 
 # value returning function
 
