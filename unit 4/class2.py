@@ -1,6 +1,6 @@
 # class attribute and object instances in python: 
 
-class Student:  # class
+class Student:  # create class
   # attributes
     id = ""      
     name = ""
