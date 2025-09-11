@@ -1,6 +1,6 @@
 # class attribute and object instances in python: 
 
-class Computer:
+class Computer:  # create class
     device_name = "" 
     processor = ""
     device_id = "" 
