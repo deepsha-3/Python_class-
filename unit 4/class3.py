@@ -29,6 +29,7 @@ com3.device_id = "554F"
 com3.system_type = "64 bits Os"
 com3.edition = "10"
 
+# print the value
 print(f"This is first computer details:", {com1.device_name}, {com1.processor}, {com1.device_id}, {com1.system_type}, {com1.edition})
 
 print(f"This is second computer details:", {com2.device_name}, {com2.processor}, {com2.device_id}, {com2.system_type}, {com2.edition})
