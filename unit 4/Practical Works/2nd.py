@@ -14,7 +14,7 @@ class Car:
 
 
 # create object
-my_car = Car("Audi", "Red", 2021)
+my_car = Car("BMW", "Red", 2021)
 
 # call method
 my_car.display_info()
