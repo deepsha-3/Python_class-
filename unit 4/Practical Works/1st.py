@@ -13,7 +13,7 @@ class Car:
         print(f"Car Year: {self.year}")
 
 # create object
-my_car = Car("BMW", "Brown", 2020)
+my_car = Car("BMW", "Black", 2020)
 
 # call method
 my_car.car_info()
