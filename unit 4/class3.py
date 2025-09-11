@@ -9,7 +9,7 @@ class Computer:  # create class
 
 com1 = Computer()  # object for class
 com2 = Computer()  # object for class
-com3 = Computer()
+com3 = Computer()  # object for class
 
 com1.device_name = "Dell " 
 com1.processor = "i7"
