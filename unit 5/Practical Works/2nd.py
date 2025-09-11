@@ -12,7 +12,7 @@ greet("Kartik")
 def add(a,b):
     return a+b
 sum = add(5,5)
-print("Sum is:",result)
+print("Sum is:", sum)
 
 
 # function without argument
