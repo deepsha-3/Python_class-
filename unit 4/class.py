@@ -5,7 +5,7 @@ class Car:     # create class
     color = ""
     model = ""
 
-car1 = Car()    # object
+car1 = Car()    # object for class
 car2 = Car()  # Object 
 
 
