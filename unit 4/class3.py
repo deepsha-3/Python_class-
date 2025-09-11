@@ -11,11 +11,13 @@ com1 = Computer()  # object for class
 com2 = Computer()  # object for class
 com3 = Computer()  # object for class
 
+# details for com1 properties
 com1.device_name = "Dell " 
 com1.processor = "i7"
 com1.device_id = "3C4F" 
 com1.system_type = "64 bits Os"
 com1.edition = "11 Pro"
+
 
 com2.device_name = "Dell " 
 com2.processor = "i5"
