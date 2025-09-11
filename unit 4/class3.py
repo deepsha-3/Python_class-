@@ -7,7 +7,7 @@ class Computer:  # create class
     system_type = ""
     edition = ""
 
-com1 = Computer()
+com1 = Computer()  # object for class
 com2 = Computer()
 com3 = Computer()
 
