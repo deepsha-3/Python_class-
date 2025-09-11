@@ -11,7 +11,7 @@ greet("Kartik")
 
 def add(a,b):
     return a+b
-result = add(5,5)
+sum = add(5,5)
 print("Sum is:",result)
 
 
