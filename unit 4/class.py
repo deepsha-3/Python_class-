@@ -6,7 +6,7 @@ class Car:     # create class
     model = ""
 
 car1 = Car()    # object for class
-car2 = Car()  # Object 
+car2 = Car()  # Object for class
 
 
 # details for car1 properties
