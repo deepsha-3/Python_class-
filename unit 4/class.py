@@ -1,6 +1,6 @@
 # class attribute and object instances in python:
 
-class Car:     # class 
+class Car:     # create class 
     name =  ""
     color = ""
     model = ""
