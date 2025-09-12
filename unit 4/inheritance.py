@@ -1,6 +1,6 @@
 # Inheritance in Python:
 
-class Person:
+class Person:    # parent class
     def talk(self):
         print("I can talk!")
 
