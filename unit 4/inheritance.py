@@ -7,7 +7,7 @@ class Person:    # parent class
     def walk(self):
             print("I can walk!")
 
-class Student(Person):
+class Student(Person): # child class 
     def study(self):
         print("I can study!")
 
