@@ -18,13 +18,14 @@ com1.device_id = "3C4F"
 com1.system_type = "64 bits Os"
 com1.edition = "11 Pro"
 
-
+# details for com2 properties
 com2.device_name = "Dell " 
 com2.processor = "i5"
 com2.device_id = "224F" 
 com2.system_type = "32 bits Os"
 com2.edition = "11 "
 
+# details for com3 properties
 com3.device_name = "Dell " 
 com3.processor = "i3"
 com3.device_id = "554F" 
