@@ -1,6 +1,6 @@
 # write a program apply inheritance where Vehicle class. 
 
-class Vehicle:
+class Vehicle:  #parent class
     def drive(self):
         print("Drive your vehicle.")
 
