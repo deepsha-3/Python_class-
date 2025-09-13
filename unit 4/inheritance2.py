@@ -17,6 +17,7 @@ d = Dog()
 d.sound()
 d.bark()
 
+# object create from second class 
 c = Cat()
 c.sound()
 c.meow()
