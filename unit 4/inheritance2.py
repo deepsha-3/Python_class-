@@ -8,7 +8,7 @@ class Dog(Animal):  # first child class
     def bark(self):
         print("Dog barks.")
 
-class Cat(Animal):
+class Cat(Animal):  # second child class
     def meow(self):
         print("Cat meows.")
 
