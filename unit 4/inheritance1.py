@@ -7,7 +7,7 @@ class Vehicle:  #parent class
     def honk(self):
         print("honk !")
 
-class Car(Vehicle):
+class Car(Vehicle):  
     def color(self):
         print("Explain your car color.")
         
