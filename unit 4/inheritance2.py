@@ -4,7 +4,7 @@ class Animal:   # class
     def sound(self):
         print("Animal makes sound.")
 
-class Dog(Animal):
+class Dog(Animal):  # first child class 
     def bark(self):
         print("Dog barks.")
 
