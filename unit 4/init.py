@@ -1,6 +1,6 @@
 # __init__ method in python:
 
-class Car:
+class Car:   # create class 
     def __init__(self, name, color):
         self.name = name
         self.color = color
