@@ -11,6 +11,7 @@ class Car(Vehicle):  # child class
     def color(self):
         print("Explain your car color.")
         
+  # object create
 car = Car()
 car.drive()
 car.honk()
