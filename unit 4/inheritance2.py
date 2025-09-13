@@ -12,6 +12,7 @@ class Cat(Animal):  # second child class
     def meow(self):
         print("Cat meows.")
 
+# object create from first class 
 d = Dog()
 d.sound()
 d.bark()
