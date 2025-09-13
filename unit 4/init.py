@@ -12,7 +12,7 @@ car1= Car("BMW", "Black")
 print("The car name is:", car1.name)
 print("The car color is:", car1.color )
 
-# create an obect and pass parameter
+# create second object and pass parameter
 car2= Car("Audi", "Black")
 print("The car name is:", car2.name)
 print("The car color is:", car2.color )
