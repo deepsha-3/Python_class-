@@ -9,3 +9,6 @@ try:
     result = 10/0
 
 # except block
+
+except ValueError as ve:
+    
