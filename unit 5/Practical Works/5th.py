@@ -2,6 +2,7 @@
 
 # try block 
 try:
+    # ValueError
     number = 10
     result = 10/0
 
