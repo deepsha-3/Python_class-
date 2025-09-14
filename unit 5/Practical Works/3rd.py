@@ -6,3 +6,5 @@ filename = "output.txt"
 
 with open(filename, "w") as file:
     file.write(output_text)
+
+print("Ohh nice output written in {output.txt}")
