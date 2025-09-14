@@ -4,6 +4,8 @@
 try:
     # ValueError
     number = int("deepsha")
+
+    # ZeroDivisionError
     result = 10/0
 
 # except block
