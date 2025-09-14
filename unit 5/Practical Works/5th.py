@@ -3,7 +3,7 @@
 # try block 
 try:
     # ValueError
-    number = 10
+    number = int("deepsha")
     result = 10/0
 
 # except block
