@@ -12,7 +12,7 @@ class Computer:  # create class
 
 # create first object and pass parameter 
 com1 = Computer("Dell","i7","3C4F","64 bits Os"," 11 Pro" )
-com2 = Computer("Dell", "i5", "224F", "32 bits Os", "11"  ) 
+com2 = Computer("Dell", "i5", "224F", "32 bits Os", "11"  ) # create second object and pass parameter 
 com3 = Computer("Dell","i3","554F","64 bits Os","10")
 
 print(f"This is first computer details:", com1.device_name,com1.procesor, com1.device_id, com1.system_type, com1.edition )
