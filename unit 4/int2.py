@@ -1,6 +1,6 @@
 # __init__ method in python:
 
-class Computer:
+class Computer:  # create class
 
     def __init__(self, device_name, processor, device_id, system_type,edition):
         self.device_name = device_name
