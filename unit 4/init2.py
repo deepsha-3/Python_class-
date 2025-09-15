@@ -9,6 +9,8 @@ class Computer:  # create class
         self.system_type = system_type
         self.edition = edition
 
+
+# object creation 
 com1 = Computer("Dell","i7","3C4F","64 bits Os"," 11 Pro" )
 com2 = Computer("Dell", "i5", "224F", "32 bits Os", "11"  )
 com3 = Computer("Dell","i3","554F","64 bits Os","10")
