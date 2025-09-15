@@ -1,6 +1,6 @@
 # multilevel inheritance example in Python:
 
-class Vehicle:
+class Vehicle:  # create class 
     def color(self):
         print("The color of the vehicle is Blue.")
 
