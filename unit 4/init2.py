@@ -15,7 +15,7 @@ com1 = Computer("Dell","i7","3C4F","64 bits Os"," 11 Pro" )
 com2 = Computer("Dell", "i5", "224F", "32 bits Os", "11"  ) # create second object and pass parameter 
 com3 = Computer("Dell","i3","554F","64 bits Os","10") # create third object and pass parameter 
 
-print(f"This is first computer details:", com1.device_name,com1.procesor, com1.device_id, com1.system_type, com1.edition )
+print(f"This is first computer details:", com1.device_name,com1.procesor, com1.device_id, com1.system_type, com1.edition )  # print first object
 
 print(f"This is second computer details:", com2.device_name,com2.procesor, com2.device_id, com2.system_type, com2.edition )
 
