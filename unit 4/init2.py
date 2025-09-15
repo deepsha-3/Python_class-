@@ -17,7 +17,7 @@ com3 = Computer("Dell","i3","554F","64 bits Os","10") # create third object and 
 
 print(f"This is first computer details:", com1.device_name,com1.procesor, com1.device_id, com1.system_type, com1.edition )  # print first object
 
-print(f"This is second computer details:", com2.device_name,com2.procesor, com2.device_id, com2.system_type, com2.edition )
+print(f"This is second computer details:", com2.device_name,com2.procesor, com2.device_id, com2.system_type, com2.edition ) # print second object
 
 print(f"This is third computer details:", com3.device_name,com3.procesor, com3.device_id, com3.system_type, com3.edition )
 
