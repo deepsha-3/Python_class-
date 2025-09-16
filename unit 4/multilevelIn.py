@@ -5,7 +5,7 @@ class Vehicle:  # create class
         print("The color of the vehicle is Blue.")
 
 
-class Car(Vehicle):  # child class/drive class 
+class Car(Vehicle):  # first child class/drive class 
     def model(self):
         print("The model of the vehicle is BMW X5.")
 
