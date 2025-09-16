@@ -11,7 +11,7 @@ class Vehicle(Car, Bike): # child class
     def type(self):
         print("This is a vehicle that can be a car or a bike.")
 
-# create object of the Vehicle class
+# create object (Vehicle class)
 v = Vehicle()
 v.color()
 v.model()
