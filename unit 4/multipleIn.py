@@ -7,7 +7,7 @@ class Bike: # create class
     def model(self):
         print("The model of the car is BMW x5.")
         
-class Vehicle(Car, Bike): # child class
+class Vehicle(Car, Bike): # child class of both classes
     def type(self):
         print("This is a vehicle that can be a car or a bike.")
 
