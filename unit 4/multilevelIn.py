@@ -13,6 +13,7 @@ class BMW(Car):  # second child class
     def speed(self):
         print("The speed of the BMW X5 is 250 km/h.")
 
+ # create object of the BMW class
 v = BMW()
 v.color()
 v.model()
