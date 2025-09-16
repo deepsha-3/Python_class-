@@ -13,6 +13,7 @@ class Vehicle(Car, Bike): # child class of both classes
 
 # create object (Vehicle class)
 v = Vehicle()
+
  # call method of parent classes
 v.color()
 v.model()
