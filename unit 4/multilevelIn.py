@@ -9,7 +9,7 @@ class Car(Vehicle):  # first child class/drive class
     def model(self):
         print("The model of the vehicle is BMW X5.")
 
-class BMW(Car):  # child class
+class BMW(Car):  # second child class
     def speed(self):
         print("The speed of the BMW X5 is 250 km/h.")
 
