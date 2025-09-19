@@ -7,7 +7,7 @@ class Bike: # create class Bike
     def ride(self):
         print("Let's go for a ride the bike.")
 
-class Auto:
+class Auto: # create class Auto
     def ride(self):
         print("Let's go for a ride the auto.")
 
