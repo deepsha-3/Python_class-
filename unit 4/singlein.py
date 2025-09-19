@@ -1,6 +1,6 @@
 # single inheritance python:
 
-class Car:
+class Car:  # create class
     def color(self):
         print("The color of the car is Black.")
 
