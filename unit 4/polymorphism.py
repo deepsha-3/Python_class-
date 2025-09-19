@@ -16,4 +16,4 @@ def ride_vehicle(vehicle): # define with argument
 
 ride_vehicle(Car()) # call car class
 ride_vehicle(Bike()) # call bike class
-ride_vehicle(Auto())
+ride_vehicle(Auto()) # call auto class
