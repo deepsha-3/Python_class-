@@ -1,5 +1,5 @@
 # polymorphism in python:
-class Car:
+class Car:  # create class Car
     def ride(self):
         print("Let's go for a ride the car.")
 
