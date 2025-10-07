@@ -17,12 +17,12 @@ print("Floor Division:", a // b)   # This is Floor Division Operator
 print("")
 
 # 2. Comparison Operators
-print("The a and b are equal:", a == b)     # Equal to Operator
+print("The a and b are equal:", a == b)         # Equal to Operator
 print("The a and b are not equal:", a != b)     # Not equal to
-print("The a is greater than b:", a > b)      # Greater than
-print("The a is less than b:", a < b)      # Less than
+print("The a is greater than b:", a > b)        # Greater than
+print("The a is less than b:", a < b)           # Less than
 print("The a is greater than or equal to b:", a >= b)     # Greater than
-print("The a is less than or equal to b:", a <= b)     # Less than or equal to
+print("The a is less than or equal to b:", a <= b)        # Less than or equal to
 print("")
 
 # 3. Logical Operators
@@ -33,9 +33,9 @@ print("")
 
 
 # 4. Assignment Operators
-a += 5                        # Add and assign
+a += 5                         # Add and assign
 print("New value of a", a)  
-b -= 2                        # Subtract and assign
+b -= 2                         # Subtract and assign
 print("New value of b =", b)  
 a *= 2                         # Multiply and assign
 print("New value of a =", a) 
