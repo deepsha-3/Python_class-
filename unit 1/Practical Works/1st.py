@@ -26,7 +26,7 @@ print("The data type of float is", type(fl))
 print("")
 
 # Type Conversion
-num= 10
+num = 10
 print(type(num))   # num is an integer
 
 num="10"    # convert num integer to string 
