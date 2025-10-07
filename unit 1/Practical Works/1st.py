@@ -2,7 +2,7 @@
 
 # Variables 
 name = "Dipisha" # name is a variable
-age= "60"      # age is a variable
+age = "60"      # age is a variable
 print("My name is", name, "and I am", age, "years old.")
 print("")
 
