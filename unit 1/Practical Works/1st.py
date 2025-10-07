@@ -32,5 +32,5 @@ print(type(num))   # num is an integer
 num = "10"    # convert num integer to string
 print(type(num))    # this num is a string
 
-num= int(num)  # convert num string to integer
+num = int(num)  # convert num string to integer
 print(type(num))  # this num is an integer again 
