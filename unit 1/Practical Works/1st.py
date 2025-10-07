@@ -8,7 +8,7 @@ print("")
 
 # Constants
 PI = 3.14   # PI is a constant 
-G=9.8       # G is a constant
+G= 9.8       # G is a constant
 print("The value of PI is", PI)
 print("The value of G is", G)
 print("")
