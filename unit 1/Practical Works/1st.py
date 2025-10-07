@@ -15,7 +15,7 @@ print("")
 
 # Data Types
 
-name= "Dipisha"  # String
+name = "Dipisha"  # String
 print("The data type of name is", type(name))
 
 num= 98000000    #Integer
