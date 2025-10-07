@@ -21,7 +21,7 @@ print("The data type of name is", type(name))
 num = 98000000    #Integer
 print("The data type of num is", type(num))
 
-fl=9.8
+fl= 9.8
 print("The data type of float is", type(fl))
 print("")
 
