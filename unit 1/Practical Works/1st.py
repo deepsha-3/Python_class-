@@ -29,7 +29,7 @@ print("")
 num = 10
 print(type(num))   # num is an integer
 
-num="10"    # convert num integer to string 
+num= "10"    # convert num integer to string 
 print(type(num))    # this num is a string
 
 num= int(num)  # convert num string to integer
