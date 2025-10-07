@@ -1,7 +1,7 @@
 # Write a program to illustrate variables, constants, data types and type conversion.
 
 # Variables 
-name ="Dipisha" # name is a variable
+name = "Dipisha" # name is a variable
 age= "60"      # age is a variable
 print("My name is", name, "and I am", age, "years old.")
 print("")
