@@ -3,7 +3,7 @@
 # addition, subtraction, multiplication, division, modulus, exponentiation and floor division
 
 a = 10
-b= 5
+b = 5
 
 # 1. Arithmetic Operators
 
