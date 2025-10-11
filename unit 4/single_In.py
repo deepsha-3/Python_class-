@@ -8,6 +8,6 @@ class BMW(Car): # create class BMW / drive class
     def model(self): 
         print("The model of the car is BMW x5.")
 
-car=BMW() # create object 
+car= BMW() # create object 
 car.color() 
 car.model()
