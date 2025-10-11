@@ -1,7 +1,8 @@
 # Write program to read input from file.
 f = open("input.txt", "r")
-data = f.read()
+data =f.read()
 print("Data read from file:")
 print(data)
 f.close()
 
+# this file can't work properly.
