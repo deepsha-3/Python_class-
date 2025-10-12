@@ -1,5 +1,5 @@
 # ef-else statement example:
-marks= int(input("Enter your marks:"))
+marks = int(input("Enter your marks:"))
 
 if(marks>=90):
     print("Grade A+")
