@@ -16,7 +16,7 @@ elif(marks >= 60):
 elif(marks >= 50):
     print("Grade C")
 
-elif(marks>=40):
+elif(marks>= 40):
     print("Grade D")
 
 else:
