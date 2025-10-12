@@ -13,7 +13,7 @@ elif(marks >= 70):
 elif(marks >= 60):
     print("Grade C+")
 
-elif(marks>=50):
+elif(marks>= 50):
     print("Grade C")
 
 elif(marks>=40):
