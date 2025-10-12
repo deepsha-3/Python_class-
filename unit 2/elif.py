@@ -10,7 +10,7 @@ elif(marks >= 80):
 elif(marks >= 70):
     print("Grade B+")
 
-elif(marks>= 60):
+elif(marks >= 60):
     print("Grade C+")
 
 elif(marks>=50):
