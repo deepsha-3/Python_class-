@@ -2,7 +2,6 @@
 # 
 num = 5
 for i in range(num):
-    count = num - i
-    spaces = count // 2
-    print(' ' * spaces + '*' * (i+1))
-
+    spaces = num - i - 1
+    stars = 2 * i + 1
+    print(' ' * spaces + '*' * stars)
