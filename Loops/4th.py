@@ -1,5 +1,5 @@
 
-#  
+#   centered pyramid
 num = 5
 for i in range(num):
     spaces = num - i - 1
