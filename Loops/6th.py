@@ -1,5 +1,5 @@
 
-# Right-Aligned Inverted Triangle (Right-Aligned Decreasing Star)  
+# Right-Aligned Inverted Triangle (Right-Aligned Decreasing Star) using loop
 
 num = 7
 for i in range(num):
