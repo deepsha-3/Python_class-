@@ -1,4 +1,5 @@
 
+# Right-Aligned Inverted Triangle
 
 num = 7
 for i in range(num):
