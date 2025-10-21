@@ -1,7 +1,8 @@
 
 # Creating A using a loop
 
-num = 5
+num = 8
+
 for i in range(num):
     if i == 0:
         print(' ' * (num - i - 1) + '*' + ' ' * (num - i - 1))
