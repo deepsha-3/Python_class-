@@ -10,3 +10,4 @@ class BMW(Car):
         print("This is a BMW car.")
 
 bmw = BMW()
+bmw.car_info()
