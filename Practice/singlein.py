@@ -11,3 +11,4 @@ class BMW(Car):
 
 bmw = BMW()
 bmw.car_info()
+bmw.bmw_info()
