@@ -8,3 +8,5 @@ class Car:
 class BMW(Car):
     def bmw_info(self):
         print("This is a BMW car.")
+
+bmw = BMW()
